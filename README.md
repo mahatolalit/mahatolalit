@@ -1,5 +1,8 @@
 # 💫 About Me:
-🧠 I’m currently working on:<br>Full-stack web projects and real-time applications at Prodigy Infotech<br><br>🤝 I’m looking to collaborate on:<br>AI-driven web tools, open-source projects, and modern web apps<br><br>🛠 I’m looking for help with:<br>Optimizing machine learning workflows and backend scalability<br><br>🌱 I’m currently learning:<br>Artificial Intelligence, Machine Learning, and advanced JavaScript frameworks<br><br>💬 Ask me about:<br>Web development, system design, and building secure authentication systems<br><br>⚡ Fun fact:<br>I started coding just out of curiosity — now it’s what I do every day.
+I’m Lalit Mahato, a developer passionate about creating clean, efficient, and reliable software.
+My core focus is on full-stack web development, where I enjoy designing seamless user experiences and building secure, scalable systems.
+
+I’m currently exploring Artificial Intelligence and Machine Learning, aiming to integrate intelligent automation and data-driven decision-making into my projects.
 
 
 ## 🌐 Socials:
