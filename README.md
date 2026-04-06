@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,40:0d0d1a,100:050510&height=220&section=header&text=Lalit%20Mahato&fontSize=72&fontColor=c8d6ff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%94%20Jamshedpur%2C%20India&descAlignY=62&descColor=7988b0&stroke=1d2459&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,40:0d0d1a,100:050510&height=220&section=header&text=Lalit%20Mahato&fontSize=72&fontColor=c8d6ff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=62&descColor=7988b0&stroke=1d2459&strokeWidth=1" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=800&color=8BAEFF&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=40&lines=git+push+origin+main+%2F%2F+and+pray+%F0%9F%99%8F;console.log(%22Plus+Ultra!!!+%F0%9F%94%A5%22);Building+clean%2C+scalable+systems+%E2%9A%A1;Open+Source+%7C+Full+Stack+%7C+AI%2FML+curious)](https://git.io/typing-svg)
 
