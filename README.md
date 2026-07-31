@@ -2,7 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/47f67eb6-0c80-4b2e-87ff-67fce99bf613" align="left" width="20%" alt="ASCII Art" />
 
-> **"I HAVEE GOTT A COMPUUTAAHHH!!"**
+> **"I HAVEE GOTT A COMPUUTAAHHH!!"**   
+
 
 Way too many ideas floating around in my head. Some are practical, some are probably a little crazy, but I enjoy exploring all of them. I love building stuff, experimenting, learning along the way, and constantly finding ways to make things a little better than they were before.
 
