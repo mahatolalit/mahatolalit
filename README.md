@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-<img src="https://github.com/user-attachments/assets/47f67eb6-0c80-4b2e-87ff-67fce99bf613" align="left" width="30%" alt="ASCII Art" />
+<img src="https://github.com/user-attachments/assets/47f67eb6-0c80-4b2e-87ff-67fce99bf613" align="left" width="25%" alt="ASCII Art" />
 
 > **-> I HAVEE GOTT A COMPUUTAAHHH!! <-**   
 
