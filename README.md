@@ -1,8 +1,12 @@
 ## 👨‍💻 About Me
 
+<img src="https://github.com/user-attachments/assets/47f67eb6-0c80-4b2e-87ff-67fce99bf613" align="left" width="20%" alt="ASCII Art" />
+
 > **"I HAVEE GOTT A COMPUUTAAHHH!!"** 💻
 
-Building clean, scalable systems. Currently diving deep into system architectures, web protocols, and competitive programming. Always exploring new tech, from high-level JavaScript ecosystems to lower-level languages like Go, Rust, and C++.
+Way too many ideas floating around in my head. Some are practical, some are probably a little crazy, but I enjoy exploring all of them. I love building stuff, experimenting, learning along the way, and constantly finding ways to make things a little better than they were before.
+
+<br clear="both"/>
 
 ## 🛠️ Tech Stack
 
@@ -31,6 +35,7 @@ Building clean, scalable systems. Currently diving deep into system architecture
 </div>
 
 <div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,100:1d2459&height=90&section=footer" width="100%"/>
 
