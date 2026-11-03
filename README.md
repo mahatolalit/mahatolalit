@@ -31,6 +31,7 @@ Way too many ideas floating around in my head. Some are practical, some are prob
 [![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=8baeff)](mailto:lalitmahato20051024@gmail.com)
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-lalitmahato-0d0d1a?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B&labelColor=0d0d1a&color=1a0d0d)](https://ko-fi.com/lalitmahato)&nbsp;
+[![Buy me a Chai](https://img.shields.io/badge/☕_Support_Me-Kulhad-orange?style=for-the-badge)](https://kulhad.co/lalit)&nbsp;
 [![PayPal](https://img.shields.io/badge/PayPal-lalitmahato7-0d0d1a?style=for-the-badge&logo=paypal&logoColor=009CDE&labelColor=0d0d1a&color=0d1220)](https://paypal.me/lalitmahato7)
 
 </div>
